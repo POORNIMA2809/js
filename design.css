@@ -1,0 +1,200 @@
+*{margin: 0; padding: 0;}
+.container{background-color: black;
+    position:relative;
+display: flex; height: 850px; width: 100%; justify-content: center;
+align-items: center;}
+.box-model{
+    position: relative;
+    border: 1px solid black;
+    background-color:#F1F1F1;
+    height: 700px;
+    width: 70%;
+}
+h1{
+    text-align: center;
+    padding-left: 350px;
+    padding-top: 120px;
+    font-size: 85px;
+    color: #FF4967;
+    font-style:initial;
+    font-weight: bolder;
+    font-family: Arial
+}
+.sear{
+    position: absolute;
+    right: 142px;
+    padding-top: 50px;
+    height: 23px;
+    width: 25px;
+}
+.heart{
+    position: absolute;
+    right: 160px;
+    padding-top:50px;
+    height: 20px;
+    width: 25px;
+}
+.cart{
+    position: absolute;
+    right: 185px;
+    padding-top:47px;
+    height: 25px;
+    width: 25px;
+}
+.hamburger{
+    position: absolute;
+    left: 140px;
+    padding-top:50px;
+    height: 23px;
+    width: 28px;
+}
+.icons{
+    position: absolute;
+    left: 180px;
+    padding-top:45px;
+    height: 33px;
+    width: 33px;
+}
+.search{
+    position: absolute;
+    top: 139px;
+    height: 20px;
+    width: 20px;
+    right: -15px;
+}
+.images{
+    position:absolute; 
+    left: 145px;
+    top: 150px;
+     width: 320px;
+
+}
+.amount{
+    position: absolute;
+    font-size: 30px;
+    color: #646464;
+    right: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ratings{
+    position: absolute;
+    font-size: 10px;
+    color: #BD3865;
+    padding-top: 1px;
+}
+.stars{
+    height: 20px;
+    width: 18px;
+    background-color: #F1F1F1;
+    padding-top: 4px;
+    padding-left: 1px;
+}
+.alpha{
+    color: #7A7A7A;
+    position: absolute;
+    padding-top: 139px;
+    font-size: 10px;
+    right: 500px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   }
+.mobel{
+    position: absolute;
+    color: #5E5E5E;
+    left: 215px;
+    padding-top:55px;
+   font-size: 15px;
+   font-family: 'Times New Roman', Times, serif;
+   }
+.para{
+    color: #6D6D6D;
+    position: absolute;
+    font-size: 11px;
+    padding-top: 58px;
+    right: 216px;
+    font-family: Microsoft Yi Baiti;
+   }
+.color{
+    position: absolute;
+    font-size: 12px;
+    padding-top: 220px;
+    left: 150px;
+    color: #7A7A7A;
+    font-family: Microsoft Yi Baiti;
+ }
+.yellowball{
+    height: 25px;
+    width: 25px;
+padding: 5px;
+}
+.blueball{
+    height: 28px;
+    width: 28px;
+}
+.orangeball{
+    height: 25px;
+    width: 25px;
+    padding: 5px;
+}
+.pinkball{
+    padding: 4px;
+    width: 35px;
+}
+.litepinkball{
+    padding: 4px;
+    height: 25px;
+    width: 25px;
+}
+
+.buy{
+    border: 2px solid #E28294;
+    color: #E28294;
+    border-radius: 25px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 8px;
+    padding-bottom: 19px;
+    height: 0px;
+    width: 65px;
+    position: absolute;
+    font-size: 12px;
+    right: 317px;
+    bottom: 310px;
+    
+   }
+.emptyheart{
+    position: absolute;
+    right: 290px;
+    bottom: 318px;
+    height: 15px;
+    width: 15px;
+}
+.favor{
+    position: absolute;
+    color: #E73B70;
+    right: 205px;
+    bottom: 318px;
+   font-size: 12px;
+}
+.line{
+    position: absolute;
+    width: 945px;
+bottom: 0px;
+}
+.product{
+    position:absolute;
+    font-size: 12px;
+    color:black;
+    bottom: 90px;
+    left: 440px;
+    color: #E73B70;   
+}
+.v{
+    position:absolute;
+    font-size: 12px;
+    bottom: 60px;
+    left: 460px;  
+    width: 37px;
+    height: 25px;
+}
+
+
